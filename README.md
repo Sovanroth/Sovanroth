@@ -12,12 +12,12 @@ I'm a web developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML...
 
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, Redux, TailwindCSS, MUI
 
 **Server:** Node, Express
 
