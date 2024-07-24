@@ -1,1 +1,1 @@
-Hello, my name is Nath Sovanroth, and I am a developer who is constantly seeking opportunities to expand my skills and knowledge. I have a strong passion for programming and a great curiosity for learning new things.
+Hello, my name is Nath Sovanroth.
